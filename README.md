@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
 # 👋 hello hello, I'm ANI
 
-> AI Developer @ [ROI.com.au](https://www.roi.com.au/) | Lives in Melbourne, Australia
-> Rides Kangaroos to work
-> Building things that interest me, even remotely so.
-> Always improving, always learning.
+> AI Developer @ [ROI.com.au](https://www.roi.com.au/) | Lives in Melbourne, Australia <
+> Rides Kangaroos to work <
+> Building things that interest me, even remotely so. <
+> Always improving, always learning. <
 
 ---
 
