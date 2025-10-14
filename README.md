@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 
 # 👋 hello hello, I'm ANI
 
-> AI Developer @ [ROI.com.au](https://www.roi.com.au/) | Based in Melbourne, Australia  
-> Building things that interest me, even remotely
+> AI Developer @ [ROI.com.au](https://www.roi.com.au/) | Lives in Melbourne, Australia
+> Rides Kangaroos to work
+> Building things that interest me, even remotely so.
 > Always improving, always learning.
 
 ---
@@ -29,7 +30,7 @@ Here are some ideas to get you started:
 AI developer, curious builder, and lifelong learner.
 ```
 
-I build whatever catches my attention — from small utilities to agentic AI systems. My toolkit spans **C**, **C++**, **Python**, **JS**, **PHP**, and even **WordPress** when it gets the job done. Lately, I've been diving into **schema design** and **agentic AI architectures**.
+I build whatever catches my attention ranging from small utilities to agentic AI systems. My toolkit spans **C**, **C++**, **Python**, **JS**, **PHP**, and even **WordPress** when it gets the job done. Lately, I've been diving into **schema design** and **agentic AI architectures**.
 
 ---
 
@@ -66,7 +67,7 @@ I build whatever catches my attention — from small utilities to agentic AI sys
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RootSlayr&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -84,7 +85,7 @@ I build whatever catches my attention — from small utilities to agentic AI sys
 
 ---
 
-## 💬 Motto
+## Motto
 
 ```python
 while True:
@@ -96,5 +97,5 @@ while True:
 ---
 
 <p align="center">
-  <sub>⚡ Crafted with curiosity and caffeine ⚡</sub>
+  <sub> SNAKE SNAKEEEEEE!!!!!!! </sub>
 </p>
