@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hey, I'm ANI
+# 👋 hello hello, I'm ANI
 
-> 🧠 AI Developer @ [ROI.com.au](https://www.roi.com.au/) | Based in Melbourne, Australia  
-> ⚙️ Building things that interest me — no language limits, just curiosity.  
-> 🚀 Always improving, always learning.
+> AI Developer @ [ROI.com.au](https://www.roi.com.au/) | Based in Melbourne, Australia  
+> Building things that interest me, even remotely
+> Always improving, always learning.
 
 ---
 
-## 🧩 About Me
+## About Me
 
 ```bash
 > whoami
@@ -33,18 +33,18 @@ I build whatever catches my attention — from small utilities to agentic AI sys
 
 ---
 
-## 🧠 Current Focus
+## Current Focus
 
 ```bash
 > now_learning
 ```
 
-- 🎮 Building a **UNO game in React**
-- 🧭 Developing a platform to **simplify job hunting** with automation and AI
+- Building a **UNO game in React**
+- Developing a platform to **simplify job hunting** with automation and AI
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -58,11 +58,11 @@ I build whatever catches my attention — from small utilities to agentic AI sys
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RootSlayr&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RootSlayr&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
@@ -71,7 +71,7 @@ I build whatever catches my attention — from small utilities to agentic AI sys
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://anirudh-chidambaram.vercel.app/">
