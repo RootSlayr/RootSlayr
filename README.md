@@ -71,6 +71,9 @@ I build whatever catches my attention ranging from small utilities to agentic AI
 </p>
 
 ---
+![GitHub followers](https://img.shields.io/github/followers/RootSlayr?label=Followers&style=flat-square&color=brightgreen)
+![GitHub stars](https://img.shields.io/github/stars/RootSlayr?label=Stars&style=flat-square&color=yellow)
+![GitHub repos](https://img.shields.io/badge/Public%20Repos-XX-blue?style=flat-square)
 
 ## Connect With Me
 
