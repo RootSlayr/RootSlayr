@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 hello hello, I'm ANI
+# hello hello, I'm ANI
 
 > AI Developer @ [ROI.com.au](https://www.roi.com.au/) | Lives in Melbourne, Australia |
 > Rides Kangaroos to work |
