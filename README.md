@@ -61,10 +61,7 @@ I build whatever catches my attention ranging from small utilities to agentic AI
 
 ## GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RootSlayr&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RootSlayr&layout=compact&theme=radical&hide_border=true" />
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=RootSlayr&theme=radical&hide_border=true" />
